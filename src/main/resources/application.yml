@@ -1,0 +1,6 @@
+security:
+  datasource:
+    url: /api/v1/pokemon
+    secret: "%D*G-KaPdRgUkXp2s5v8y/B?E(H+MbQe"
+    headerString: Authorization
+    tokenPrefix: Bearer
